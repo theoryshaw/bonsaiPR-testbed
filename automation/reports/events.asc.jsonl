@@ -1,0 +1,4 @@
+{"ts": "2026-07-18T16:18:53Z", "order": "ascending", "pr": 101, "event": "updated", "status": "merged", "from_head": "aaaa111", "to_head": "aaaa222"}
+{"ts": "2026-07-18T16:18:53Z", "order": "ascending", "pr": 104, "event": "added", "to": "merged"}
+{"ts": "2026-07-18T16:18:53Z", "order": "ascending", "pr": 201, "event": "status", "from": "failed", "to": "merged"}
+{"ts": "2026-07-18T16:18:53Z", "order": "ascending", "pr": 301, "event": "removed", "from": "skipped_conflict"}

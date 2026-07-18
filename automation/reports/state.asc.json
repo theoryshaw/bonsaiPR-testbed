@@ -1,0 +1,63 @@
+{
+  "base": "v0.8.0",
+  "counts": {
+    "failed": 0,
+    "merged": 5,
+    "skipped_conflict": 0,
+    "skipped_draft": 1,
+    "total": 6
+  },
+  "generated_at": "2026-07-18T16:18:53Z",
+  "merge_order": "ascending",
+  "prs": {
+    "101": {
+      "author": "alice",
+      "branch": "pr-101-branch",
+      "head": "aaaa222",
+      "status": "merged",
+      "title": "Add wall tool",
+      "url": "https://github.com/IfcOpenShell/IfcOpenShell/pull/101"
+    },
+    "102": {
+      "author": "bob",
+      "branch": "pr-102-branch",
+      "head": "bbbb111",
+      "status": "merged",
+      "title": "Fix door swing",
+      "url": "https://github.com/IfcOpenShell/IfcOpenShell/pull/102"
+    },
+    "103": {
+      "author": "carol",
+      "branch": "pr-103-branch",
+      "head": "cccc111",
+      "status": "merged",
+      "title": "Improve schedules",
+      "url": "https://github.com/IfcOpenShell/IfcOpenShell/pull/103"
+    },
+    "104": {
+      "author": "grace",
+      "branch": "pr-104-branch",
+      "head": null,
+      "status": "merged",
+      "title": "New pretty panel",
+      "url": "https://github.com/IfcOpenShell/IfcOpenShell/pull/104"
+    },
+    "201": {
+      "author": "dave",
+      "branch": "pr-201-branch",
+      "head": "dddd111",
+      "status": "merged",
+      "title": "Break the build",
+      "url": "https://github.com/IfcOpenShell/IfcOpenShell/pull/201"
+    },
+    "401": {
+      "author": "frank",
+      "branch": "pr-401-branch",
+      "head": "ffff111",
+      "status": "skipped_draft",
+      "title": "WIP experiment",
+      "url": "https://github.com/IfcOpenShell/IfcOpenShell/pull/401"
+    }
+  },
+  "schema": 1
+}
